@@ -1,0 +1,25 @@
+li{list-style-type: none;
+display: inline;
+padding-left: 10%;
+font-size: large;
+font-weight: bold;
+
+}
+ul{
+   text-align: center; 
+}
+p{
+    margin-left: 10%;
+}
+blockquote{
+    margin-left: 10%;
+}
+h2{
+    text-align: center;
+}
+.center{
+    display: block;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 90%
+}
